@@ -1,0 +1,17 @@
+git checkout :on change de branche
+git chekout -b : on créer une branche a partir de celle sur laquelle on se trouve
+convention des git branch : 1er lettre prenom + 2ere lettes nom 
+	darius bengo --> dbe
+	exemple de branche : dbe_description_concise_et_courte_de_la_maj
+
+Main	
+	dbe_personnel
+	fjf_personnel
+	...
+
+git add : ajouter au tracker git les fichiers voulus
+git commit-a "commentaire" : pour avoir un commentaire historizer
+git push : pousser le code sur github.com
+
+creer un env pandas, python que l'on va appeler house_
+puis lire les infos présentes dans le READme.md
