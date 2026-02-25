@@ -1,4 +1,4 @@
-Survived,Sex,Age,Department/Class,Passenger/Crew,Accompagné,Naufrage
+Survived,Sex,Age,Category,Passenger/Crew,Accompagné,Naufrage
 Lost,M,38.0,4,Crew,0,Lusitania
 Lost,M,37.0,4,Crew,0,Lusitania
 Saved,M,30.0,4,Crew,0,Lusitania
