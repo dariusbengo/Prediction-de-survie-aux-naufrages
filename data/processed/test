@@ -1,0 +1,4 @@
+
+3. Au lieu de `fichier.txt`, tape : `data/processed/test.csv`
+4. Mets n'importe quoi dedans (ex: "test")
+5. **Commit** → le dossier `data/processed/` apparaît !
