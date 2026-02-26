@@ -1,0 +1,25 @@
+name: naufrages_ml
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  - scikit-learn>=1.3.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - jupyterlab=4.0.*
+  - notebook=7.0.*
+  - ipykernel
+  - joblib>=1.3.0
+  - shap>=0.42.0
+  - scipy>=1.10.0
+  
+  # VS Code Jupyter support
+  - pip
+  - pip:
+      - jupyterlab-code-formatter
+      - black[jupyter]
